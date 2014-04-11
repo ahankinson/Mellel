@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<archive creator='com.redlex.mellel' writer-version='10' compatibility-version='10'><pooled-objects></pooled-objects><root><regex><group greedy='no' capturing='yes' negated='no' display-name='yes' name='Any Paragraph'><any-character min-repeats='1' max-repeats='0' greedy='no'/><special-character greedy='no' negated='no' character='&#x000D;'/><paragraph-boundary/></group></regex></root></archive>

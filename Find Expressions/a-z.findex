@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<archive creator='com.redlex.mellel' writer-version='10' compatibility-version='10'><pooled-objects></pooled-objects><root><regex><group capturing='yes' negated='no' display-name='yes' name='a-z'><character-range negated='no' range-start='97' range-end='122'/></group></regex></root></archive>

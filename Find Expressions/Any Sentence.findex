@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<archive creator='com.redlex.mellel' writer-version='10' compatibility-version='10'><pooled-objects></pooled-objects><root><regex><group capturing='yes' negated='no' display-name='yes' name='Any Sentence'><group capturing='yes' negated='no'><any-character min-repeats='1' max-repeats='0' greedy='no'/></group><group greedy='no' capturing='yes' negated='no'>.<or/>?<or/>!</group></group></regex></root></archive>

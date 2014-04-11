@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<archive creator='com.redlex.mellel' writer-version='14' compatibility-version='10'><pooled-objects><reference-format ref='rf-0' name='See pp. XX-YY'><elements><element><type>free-text</type><contents><default>See pp. </default></contents></element><element><type>autotitle-range-start</type></element><element><type>free-text</type><contents><default>-</default></contents></element><element><type>autotitle-range-end</type></element></elements></reference-format></pooled-objects><root><format>rf-0</format></root></archive>

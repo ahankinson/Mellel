@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<archive creator='com.redlex.mellel' writer-version='17' compatibility-version='10'><pooled-objects><reference-format ref='rf-0' name='picture #'><elements><element><type>free-text</type><contents><default>picture </default></contents></element><element><type>autotitle-current-number</type></element></elements></reference-format></pooled-objects><root><format>rf-0</format></root></archive>
