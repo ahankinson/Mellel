@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<archive creator='com.redlex.mellel' writer-version='17' compatibility-version='10'><pooled-objects></pooled-objects><root><element>com.apple.keylayout.Canadian</element></root></archive>
+<archive creator='com.redlex.mellel' writer-version='17' compatibility-version='10'><pooled-objects></pooled-objects><root><element>com.apple.keylayout.Canadian</element><element>com.apple.keylayout.US</element></root></archive>
